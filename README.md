@@ -3,7 +3,7 @@
 🚀 Achieved a top 1.5% rank (#790) in the Analytics Vidhya Big Mart Sales Prediction Challenge using LightGBM, with an RMSE of 1150.2858411057!
 
 ## 📌 Project Overview
-BigMart Sales Analysis is an exploratory and predictive modeling project focused on understanding sales patterns across various stores and products. The dataset includes store-specific and product-specific attributes, which help in predicting future sales.
+This project analyzes sales patterns across BigMart stores to predict future sales and optimize inventory planning. The dataset includes store-specific and product-specific attributes, which help in predicting future sales.
 
 ## 💒 Repository Structure
 ```
