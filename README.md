@@ -107,7 +107,7 @@ The dataset consists of store-level and product-level attributes that influence 
 The **LightGBM model** outperformed others with the lowest RMSE and highest R² value, making it the best choice for our final submission.
 
 ## 🏆 Competition Rank
-- Achieved a rank of 790 with a final test RMSE = 1150.2858411057 in the competition based on the final LightGBM model's performance.
+- Achieved a rank of #790 (out of 52485 participants) with a final test RMSE = 1150.2858411057 in the competition based on the final LightGBM model's performance.
 
 ---
 🔹 **Author:** Netra Kulkarni  
