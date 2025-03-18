@@ -108,6 +108,6 @@ The **LightGBM model** outperformed others with the lowest RMSE and highest R² 
 
 ---
 🔹 **Author:** Netra Kulkarni  
-🔹 **GitHub:** [Your GitHub Link]  
-🔹 **Contact:** [Your Email]  
+🔹 **GitHub:** https://uniquenetra.github.io/  
+🔹 **Contact:** uniquenetra@gmail.com
 
