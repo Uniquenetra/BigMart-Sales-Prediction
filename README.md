@@ -100,9 +100,9 @@ The dataset consists of store-level and product-level attributes that influence 
 ### **Model Performance**
 | Model | RMSE | R² |
 |--------|--------|--------|
-| LightGBM | **1080.5** | **0.71** |
-| Random Forest | 1150.2 | 0.68 |
-| Linear Regression | 1350.9 | 0.60 |
+| LightGBM | **1014.1282** | **0.6216** |
+| Random Forest | 1110.5789 | 0.546 |
+| XGBoost | 1019.0624 | 0.6179 |
 
 The **LightGBM model** outperformed others with the lowest RMSE and highest R² value, making it the best choice for our final submission.
 
