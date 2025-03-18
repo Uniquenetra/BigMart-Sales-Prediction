@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 BigMart Sales Analysis is an exploratory and predictive modeling project focused on understanding sales patterns across various stores and products. The dataset includes store-specific and product-specific attributes, which help in predicting future sales.
 
-## 📂 Repository Structure
+## 💒 Repository Structure
 ```
 BigMart-Sales-Analysis/
 ├── data/                      # Dataset folder
@@ -25,7 +25,7 @@ BigMart-Sales-Analysis/
 │   │   ├── submission_trial_2.csv
 │   │   ├── ...
 │   ├── submission_final.csv  # From final notebook
-├── approach.pdf                # Explanation of approach (currently empty)
+├── approach.pdf                # Explanation of approach
 ├── LICENSE                     # License information
 ├── README.md                   # Project description
 ├── requirements.txt             # Dependencies
@@ -105,6 +105,9 @@ The dataset consists of store-level and product-level attributes that influence 
 | XGBoost | 1019.0624 | 0.6179 |
 
 The **LightGBM model** outperformed others with the lowest RMSE and highest R² value, making it the best choice for our final submission.
+
+## 🏆 Competition Rank
+- Achieved a rank of 790 with a final test RMSE = 1150.2858411057 in the competition based on the final LightGBM model's performance.
 
 ---
 🔹 **Author:** Netra Kulkarni  
